@@ -8,10 +8,14 @@ gender (Male/Female) based on their Weight and Height. So the output y = 0 (fema
 the input is a 2D data (weight, height). You are provided two datasets with one for training, and the
 other for testing. If you open each ".txt" file, you will see all the samples are lined up row by row.
 Each sample contains three columns: Height, Weight, and Male.
+
 ● Height in inches
+
 ● Weight in pounds
+
 ● Male: 1 means that the measurement corresponds to a male person, and 0 means that the
 measurement corresponds to a female person.
+
 You need to "C/C++" (other languages are not acceptable) to write a program to achieve the
 classification using Logistic Regression. You have the option to either turn in one piece of code
 (having both training and testing tasks) or two pieces of code (with one for training and the other for
